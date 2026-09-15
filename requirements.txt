@@ -1,0 +1,6 @@
+telethon>=1.24.0
+python-dotenv
+requests
+cryptg
+pytz
+psycopg2-binary
